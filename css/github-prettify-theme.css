@@ -126,7 +126,7 @@ li.L6,
 li.L7,
 li.L8,
 li.L9 {
-  /* */
+  /* */ 
 }
 
 /* Alternate shading for lines */
@@ -146,4 +146,8 @@ li.L5, li.L6, li.L7, li.L8
 
 .prettyprint li {
   margin-bottom: .3rem;
+}
+
+li > ul {
+    margin-left: 2.5rem;
 }
